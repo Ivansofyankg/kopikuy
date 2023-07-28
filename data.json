@@ -1,0 +1,122 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "https://4.bp.blogspot.com/-bwLu7pfpA3s/VVASHkvCugI/AAAAAAAADBY/TViYvkrcWSc/s1600/cendool.jpg",
+            "nama": "Es Cendol",
+            "size": "100 Gram",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://sgp1.digitaloceanspaces.com/tz-mag-id/wp-content/uploads/2020/08/020208081010/2-Es-Campur-Sinar-Garut.jpg",
+            "nama": "Es Campur",
+            "size": "150 Gram",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://th.bing.com/th/id/OIP.LFSmdHfuJJ4y0bc8qMWh0gHaLu?pid=ImgDet&rs=1",
+            "nama": "Es Chocolate",
+            "size": "150 Gram",
+            "harga": "30.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "makanan": [
+        {
+            "foto": "https://th.bing.com/th/id/OIP.Lij986nBjWjcK_gX9zzZgQHaE9?pid=ImgDet&rs=1",
+            "nama": "Nasi Goreng Seafood",
+            "size": "100 Gram",
+            "harga": "45.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://th.bing.com/th/id/OIP.eFRKUZZlmxXuHJdfcekJQwHaEK?pid=ImgDet&rs=1",
+            "nama": "Sop Buntut",
+            "size": "150 Gram",
+            "harga": "70.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://www.rumahmesin.com/wp-content/uploads/2019/02/cara-membuat-kentang-goreng.jpeg",
+            "nama": "Kentang Goreng",
+            "size": "150 Gram",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://th.bing.com/th/id/OIP.8LikFEfoXNszOI8dOL9sbAAAAA?pid=ImgDet&rs=1",
+            "nama": "Capcay Goreng",
+            "size": "150 Gram",
+            "harga": "50.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://i0.wp.com/resepkoki.id/wp-content/uploads/2017/02/Resep-Gado-Gado.jpg?fit=2461%2C2359&ssl=1",
+            "nama": "Gado - Gado",
+            "size": "150 Gram",
+            "harga": "30.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://cdn.britannica.com/08/177308-050-94D9D6BE/Food-Pizza-Basil-Tomato.jpg",
+            "nama": "Pizza",
+            "size": "150 Gram",
+            "harga": "70.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://th.bing.com/th/id/OIP.i5Emtl_ex0g-1rAB_eLLVQHaHQ?pid=ImgDet&rs=1",
+            "nama": "Sosis Bakar",
+            "size": "150 Gram",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://s3.bukalapak.com/img/8524921702/w-1000/Nasi_Putih_per_porsi.jpg",
+            "nama": "Nasi Putih",
+            "size": "150 Gram",
+            "harga": "5.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ]
+}
